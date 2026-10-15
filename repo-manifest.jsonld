@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/rst2myst/commit/32f1dd8a6b929d29fd8eb8a01b6d47b9eb242a2d",
       "git:hexsha": "32f1dd8a6b929d29fd8eb8a01b6d47b9eb242a2d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
